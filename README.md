@@ -2,6 +2,7 @@
 A Mario type of Game ! (A Runner)
 
 - How to play : Just press Space bar. Don't hit any wall comming in the front of you and be careful at the arrows they can kill you !
+It is possible to lose or win (if you are good enough) it will show you your final distance.
 
 ## How to run it
 - Clone this repository
