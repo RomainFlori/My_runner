@@ -9,9 +9,9 @@ A Mario type of Game ! (A Runner)
 - Run ./my_runner map (the maps are in the folder map)
 - Example : ./runner map/map_easy
 
-# Tip : You can set your own number of wall and play with it
+### Tip : You can set your own number of wall and play with it (just create a .txt and execute binary with it !)
 
-## How it look's like:
+# How it look's like:
 *The Menu*
 
 ![runner](https://i.imgur.com/kmD5Hlq.png)
